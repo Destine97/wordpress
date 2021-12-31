@@ -7,7 +7,11 @@
  */
 
 /**
- * Tells WordPress to load the WordPress theme and output it. change by rakshith
+
+
+
+ * Tells WordPress to load the WordPress theme and output it.changed by nehith
+
  *
  * @var bool
  */
