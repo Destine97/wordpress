@@ -10,7 +10,7 @@
 
 
 
- * Tells WordPress to load the WordPress theme and output it.changed by nehith
+ * Tells WordPress to load the WordPress theme and output it.changed by nehith hi
 
  *
  * @var bool
